@@ -5,6 +5,8 @@
 <a href="https://litehai-vtt6wd.azurewebsites.net/applications/10/workflows/10" style = "style = "display: inline;""><img src = "demo.png" style = "position:relative;left:40px;"></image></a>
 </div>
   
+ The complete organization of projects can be found <a href="https://github.com/dotslash-litehai">here</a>
+  
   # Patent-lite-contract
 
 This contract is deployed on Azure Blockchain Workbench.
