@@ -1,0 +1,14 @@
+{
+  "client_id" : "11fad779-f30c-4526-b904-9863726e90b3",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "https://litehai-vtt6wd.azurewebsites.net",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADandPersonalMicrosoftAccount",
+        "tenant_id": "common"
+      }
+    }
+  ]
+}
