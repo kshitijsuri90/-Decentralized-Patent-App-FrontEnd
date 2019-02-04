@@ -5,6 +5,11 @@
 <a href="https://litehai-vtt6wd.azurewebsites.net/applications/10/workflows/10" style = "style = "display: inline;""><img src = "demo.png" style = "position:relative;left:40px;"></image></a>
 </div>
   
+  |  | |
+| ------------- | ------------- |
+|![screenshot_20190203-151326](https://user-images.githubusercontent.com/34534870/52193690-69ee7d00-2876-11e9-9272-68b0074a2b8f.jpg) | ![screenshot_20190203-151828](https://user-images.githubusercontent.com/34534870/52193693-6bb84080-2876-11e9-8893-914ce8b561ee.jpg) |
+|![screenshot_20190203-151831](https://user-images.githubusercontent.com/34534870/52193695-6d820400-2876-11e9-96c0-7c5c4aa27378.jpg) |
+
  The complete organization of projects can be found <a href="https://github.com/dotslash-litehai">here</a>
   
   # Patent-lite-contract
